@@ -5,9 +5,7 @@
     "react-scripts": "^4.0.0"
   },
   "main": "/index.js",
-  "devDependencies": {
-    "react-scripts": "1.0.0"
-  },
+  "devDependencies": {},
   "name": "wjwuw8",
   "description": "none",
   "version": "0.0.0",
