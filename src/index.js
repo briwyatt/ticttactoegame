@@ -7,10 +7,8 @@ import App from "./App";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
-    <React.Fragment>
         <StrictMode>
             <App />
         </StrictMode>
-    </React.Fragment>
 
 );
